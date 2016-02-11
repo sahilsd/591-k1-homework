@@ -1,14 +1,10 @@
 Submitting homework1 for 591-k1. 
-Because of the large datasize of csv files, the upload fails. Also, there is no significant difference in the compressed
-csv files.
-
 
 Please execute the fastParse() function completely. It takes around 28 min on my laptop, as shown in the time logs in
 sample execution. 
-Please use the tar.gz subset for oroginal data.
+Otherwise please use the tar.gz subset for oroginal data.
 
+-----
 For smaller datasets, please use the two subsets of csv files I am uploading. 
 In this case, PLEASE REMOVE THE '.subset' EXTENSION OF THESE FILES BEFORE USE.
 
-I couldn't find any other way to push the csv files. I am generating two csv files simultaneously for question and
-answer posts. These files are used later for further processing.
