@@ -2,18 +2,12 @@ Submitting homework1 for 591-k1.
 Because of the large datasize of csv files, the upload fails. Also, there is no significant difference in the compressed
 csv files.
 
-$ ls -l --block-size=M
-total 626M
--rw-rw-r-- 1 sahil sahil  75M Feb 11 14:40 answer_dataframe.csv
--rw-rw-r-- 1 sahil sahil  75M Feb 11 15:08 answer-df.tar
--rw-rw-r-- 1 sahil sahil   1M Feb 11 14:40 custom.css
--rw-rw-r-- 1 sahil sahil   1M Feb 11 14:59 Homework-1.ipynb
--rw-rw-r-- 1 sahil sahil 134M Feb 11 14:40 question_dataframe.csv
--rw-rw-r-- 1 sahil sahil 134M Feb 11 15:08 question-df.tar
 
 Please execute the fastParse() function completely. It takes around 28 min on my laptop, as shown in the time logs in
 sample execution. 
-If 28 min is a lot of time, please use the two subsets of csv files I am uploading. 
+Please use the tar.gz subset for oroginal data.
+
+For smaller datasets, please use the two subsets of csv files I am uploading. 
 In this case, PLEASE REMOVE THE '.subset' EXTENSION OF THESE FILES BEFORE USE.
 
 I couldn't find any other way to push the csv files. I am generating two csv files simultaneously for question and
