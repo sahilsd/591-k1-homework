@@ -1,0 +1,10 @@
+Commit log:
+
+$ git commit -m "add supplementary files"
+[master 0616d1b] add supplementary files
+ 4 files changed, 8016 insertions(+), 825 deletions(-)
+ rewrite hw2-submission/Homework-2.ipynb (77%)
+ create mode 100644 hw2-submission/negative-words.txt
+ create mode 100644 hw2-submission/positive-words.txt
+ create mode 100644 hw2-submission/vegas.png
+
