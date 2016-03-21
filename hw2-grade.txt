@@ -1,0 +1,13 @@
+Q1. (review score comparison) :         15/20 (lexicon not stemmed, cannot compare stemmed review tokens with unstemmed lexicon)
+Q2. (visualization and analysis) :      10/10
+Q3. (clustering) :                      25/30 (culinary districts shouldnot be overlapping as each district denotes the popular
+                                                cuisine of that particular dist., seems like your implementation is clustering mainly
+                                                based on cusine, without giving appropriate importance to geolocation, hence spread out
+                                                overlapping clusters)
+Q4. (cluster visualization) :           10/15 (missing cluster labels)
+Q5. (outlier detection) :               15/15
+Q6. (analysis) :                        10/10
+
+Late Penalty (if any) :
+
+Total :                                 90/100
