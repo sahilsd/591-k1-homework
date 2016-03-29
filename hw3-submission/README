@@ -1,0 +1,15 @@
+Key points:
+
+1) TripAdvisor prompts a login page when selenium spawns a new session. Therefore I had to stick to standard http
+requests in order to parse reviews and traveler ratings/types. 
+This method is very slow since most of the time is consumed in waiting for html pages.
+
+2) This is why, I have attached two files omni-scrapte-out.dat and travel-rating.dat along with already provided
+rating-summary.dat with my submission. To avoid replacing these files, I have renamed newly generated file name to
+omni-scrapte-out-NEWFILE.dat.
+
+3) Results of linear and logistic regression seemed vague when I used all the parameters. Therefore I have added an
+additional run with different set of attributes. I'm sure there will be better sets of attributes that will give more
+intuitive model coeffs. 
+
+More implementation details in comments.
